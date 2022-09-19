@@ -1,0 +1,15 @@
+D:\GW\Advanced Programming(1651)\code\Ex2\problem7\bin\Debug\net6.0\problem7.exe
+D:\GW\Advanced Programming(1651)\code\Ex2\problem7\bin\Debug\net6.0\problem7.deps.json
+D:\GW\Advanced Programming(1651)\code\Ex2\problem7\bin\Debug\net6.0\problem7.runtimeconfig.json
+D:\GW\Advanced Programming(1651)\code\Ex2\problem7\bin\Debug\net6.0\problem7.dll
+D:\GW\Advanced Programming(1651)\code\Ex2\problem7\bin\Debug\net6.0\problem7.pdb
+D:\GW\Advanced Programming(1651)\code\Ex2\problem7\obj\Debug\net6.0\problem7.csproj.AssemblyReference.cache
+D:\GW\Advanced Programming(1651)\code\Ex2\problem7\obj\Debug\net6.0\problem7.GeneratedMSBuildEditorConfig.editorconfig
+D:\GW\Advanced Programming(1651)\code\Ex2\problem7\obj\Debug\net6.0\problem7.AssemblyInfoInputs.cache
+D:\GW\Advanced Programming(1651)\code\Ex2\problem7\obj\Debug\net6.0\problem7.AssemblyInfo.cs
+D:\GW\Advanced Programming(1651)\code\Ex2\problem7\obj\Debug\net6.0\problem7.csproj.CoreCompileInputs.cache
+D:\GW\Advanced Programming(1651)\code\Ex2\problem7\obj\Debug\net6.0\problem7.dll
+D:\GW\Advanced Programming(1651)\code\Ex2\problem7\obj\Debug\net6.0\refint\problem7.dll
+D:\GW\Advanced Programming(1651)\code\Ex2\problem7\obj\Debug\net6.0\problem7.pdb
+D:\GW\Advanced Programming(1651)\code\Ex2\problem7\obj\Debug\net6.0\problem7.genruntimeconfig.cache
+D:\GW\Advanced Programming(1651)\code\Ex2\problem7\obj\Debug\net6.0\ref\problem7.dll
